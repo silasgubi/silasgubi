@@ -167,7 +167,7 @@ LEGO 72046 converted to functional Game Boy emulator. Complete build guide with 
 ### 🏠 ha-nabu-intelligence-system  
 Claude-powered voice assistant for Home Assistant. Context-aware responses, quiet hours automation, Portuguese BR support.
 
-### 🌱 ha-irrigation-esp32-ladygaga
+### 🌱 ha-irrigation-esp32
 Autonomous irrigation system with fail-safe defaults. Works standalone if Home Assistant fails.
 
 ### 🏗️ project-docs-methodology *(skill)*
