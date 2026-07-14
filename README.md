@@ -28,6 +28,12 @@ upstream fixes.
 M5Cardputer MP3 player with a 7-band software equalizer - real-time DSP on every
 audio sample. Fork of sanchitminda player.
 
+**[CardputerADV-NFC](https://github.com/silasgubi/CardputerADV-NFC)**
+NFC tag reader, emulator, and writer for the M5Stack Cardputer ADV with the
+ST25R3916 module. Reads NFC-A cards, saves them to SD, emulates saved cards,
+and writes NDEF records to blank tags (Home Assistant, labels, digital
+business cards).
+
 ---
 
 ## Stack
