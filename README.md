@@ -59,4 +59,4 @@ Home Assistant - ESPHome - ESP32 - M5Stack - Python - YAML - Claude Code - Mesht
 
 ---
 
-Sao Paulo
+São Paulo, Brazil · Get in touch through GitHub: open an issue or a discussion on any of my repositories
