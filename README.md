@@ -1,5 +1,4 @@
-# Silas Gubitoso
-
+# Silas Gubi
 Sao Paulo, Brazil. I build home automation systems that work when the internet does not.
 
 My Home Assistant setup does things visitors actually notice: light color temperature
